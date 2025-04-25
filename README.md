@@ -1,12 +1,27 @@
-"# Data Science with Python" 
-"## Description" 
-"Ce projet contient des notebooks et des projets pour apprendre la Data Science avec Python." 
-"## Structure" 
-"- **Datasets/** : Donn�es utilis�es pour les projets." 
-"- **Fondamentaux Python/** : Notebooks pour apprendre les bases." 
-"- **Projets Churn Telecoms/** : Projet de pr�diction de churn." 
-"## Installation" 
-"1. Clonez le d�p�t : \`git clone git@github.com:Modecon33/Data_Science_with_Python.git\`" 
-"2. Cr�ez un environnement virtuel : \`python -m venv venv\`" 
-"3. Activez-le : \`.\venv\Scripts\activate\` (Windows)" 
-"4. Installez les d�pendances : \`pip install -r requirements.txt\`" 
+# 📊 Data Science with Python
+
+## 🧠 Description
+
+Ce dépôt contient une collection de notebooks, projets pratiques et ressources pour apprendre la Data Science en utilisant Python. Il s’adresse autant aux débutants qu’à ceux souhaitant renforcer leurs compétences en manipulation de données, visualisation, machine learning, etc.
+
+## 🗂️ Structure du projet
+
+- **`datasets/`** : Contient les jeux de données utilisés dans les notebooks et projets.
+- **`Fondamentaux_Python/`** : Notebooks pédagogiques pour apprendre les bases de Python appliqué à la Data Science.
+- **`Projets_Churn_Telecoms/`** : Projet complet de prédiction du churn (attrition client) dans le secteur des télécommunications.
+
+## ⚙️ Installation
+
+### Prérequis
+
+- Python 3.8 ou plus
+- `git`
+- Environnement virtuel (recommandé)
+
+### Étapes
+
+1. Clonez le dépôt :
+   ```bash
+   git clone git@github.com:Modecon33/Data_Science_with_Python.git
+   cd Data_Science_with_Python
+
